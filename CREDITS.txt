@@ -1,7 +1,7 @@
 This file is an aggregation of the original README as well as all non-git
 version control notes from the original authors.
 -------------------------------------------------------------------------
-                                   RMOO 1.1
+                                   RMOO 2.0
 
    Originally by [1]Ron Tapia <[2]tapia@nmia.com>
    Maintained by [3]Matthew Campbell <[4]mattcampbell@pobox.com>
@@ -21,6 +21,9 @@ Introduction
 
 Release History
 
+   Version 2.0 (WIP 2021)
+          This version is still in progress.
+   
    Version 1.1 (released October 18, 2000)
           This is a maintenance release. In this release, I removed the
           activity alert that Emacspeak users used to get while they were

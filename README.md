@@ -1,4 +1,4 @@
-# RMOO 1.3
+# RMOO 2.0
 
 The following documents how to get RMOO up and running for the complete beginner. If you're unfamiliar with Emacs, the conventions used may be a bit odd. Here's a quick rundown of how commands are presented:
 
@@ -8,7 +8,7 @@ When prefixed with an M-, that means your meta key. Typically this is your Windo
 
 ### Installation
 The simplest way to install, in my opinion:
-1. `git clone https://github.com/lisdude/rmoo.git ~/.emacs.d/rmoo`
+1. `git clone https://github.com/deskoft/rmoo.git ~/.emacs.d/rmoo`
 2. `git clone https://github.com/atomontage/xterm-color.git ~/.emacs.d/xterm-color`
 3. Add the following to your configuration file:
 ```
@@ -123,4 +123,4 @@ __Earlier Versions__
 - See [CREDITS.txt](CREDITS.txt) for original changelogs and version control notes.
 
 ### Authors
-[Ron Tapia](http://www.nmia.com/~tapia/) <[tapia@nmia.com](mailto:tapia@nmia.com)>, [Matthew Campbell](http://www.pobox.com/~mattcampbell/) <[mattcampbell@pobox.com](mailto:mattcampbell@pobox.com)>, [Todd Sundsted](https://github.com/toddsundsted), [lisdude](https://www.lisdude.com) <[lisdude@lisdude.com](mailto:lisdude@lisdude.com)>
+[Ron Tapia](http://www.nmia.com/~tapia/) <[tapia@nmia.com](mailto:tapia@nmia.com)>, [Matthew Campbell](http://www.pobox.com/~mattcampbell/) <[mattcampbell@pobox.com](mailto:mattcampbell@pobox.com)>, [Todd Sundsted](https://github.com/toddsundsted), [lisdude](https://www.lisdude.com) <[lisdude@lisdude.com](mailto:lisdude@lisdude.com)>, [Deskoft](https://github.com/deskoft/)

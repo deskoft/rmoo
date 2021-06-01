@@ -12,7 +12,7 @@
 ;;
 ;; Most of the global variables.
 ;;
-(defvar rmoo-version "1.3b")
+(defvar rmoo-version "2.0")
 (defgroup rmoo nil "Customization options for RMOO MOO client.")
 (defvar rmoo-world-here nil "The moo world associated with this buffer.")
 (make-variable-buffer-local 'rmoo-world-here)
